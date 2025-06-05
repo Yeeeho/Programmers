@@ -8,7 +8,7 @@ def solution(players, m, k):
     server_num = server_age = 0
     server = [server_num, server_age]
     
-    #시간이 흐른다.
+    #시간이 흐른다.. 종말이 다가온다.
     time_global = 0
     for time_global in range(0,24):
         
